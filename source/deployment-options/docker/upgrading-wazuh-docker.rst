@@ -22,6 +22,12 @@ Using default docker-compose files
 
       # docker-compose down
 
+#. Update local Git repository:
+
+      .. code-block::
+
+         # git fetch
+
 #. Checkout the tag for the current version of wazuh-docker:
 
       .. code-block::
